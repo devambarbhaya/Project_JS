@@ -1,4 +1,5 @@
 This repository contains the listed projects: 
-1. Movie App
-2. Snake Game
-3. Weather App
+1. ChatGPT Bot
+2. Movie App
+3. Snake Game
+4. Weather App
